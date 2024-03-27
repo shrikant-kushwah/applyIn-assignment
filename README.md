@@ -1,19 +1,23 @@
 # React Weather Website
-## Screenshots: 
+
+# Screenshots: 
+
 ## Home Page with search bar
 <img width="960" alt="homePage-with-searchBar" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/fb3b8f59-8919-4cd6-a959-14d867060aa4">
+
 
 ## Search bar suggestions
 <img width="960" alt="searchBar-suggestions" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/de54fc0d-8db8-4e10-8fc0-5772fa1a2fcf">
 
+
 ## Search Result
 <img width="960" alt="searchResults" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/1b5072a0-fb0b-4813-bb13-268e5adfd549">
+
 
 ## Search Result with accordion
 <img width="960" alt="detailsResult" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/5545aafc-4e66-436b-ab80-c8dcd56091a0">
 
-
-Frontend Engineer Task : Design a Weather Forecast Dashboard
+## Live Link [live demo](https://mirrar-assignment-nq5i.vercel.app/)
 
 ## Table of Contents
 
