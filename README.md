@@ -10,7 +10,7 @@
 <img width="960" alt="searchBar-suggestions" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/de54fc0d-8db8-4e10-8fc0-5772fa1a2fcf">
 
 
-## Search Result
+## Search Result and Display a 5-day forecast
 <img width="960" alt="searchResults" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/1b5072a0-fb0b-4813-bb13-268e5adfd549">
 
 
