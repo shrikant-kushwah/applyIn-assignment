@@ -3,19 +3,23 @@
 # Screenshots: 
 
 ## Home Page with search bar
-<img width="960" alt="homePage-with-searchBar" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/fb3b8f59-8919-4cd6-a959-14d867060aa4">
+<img width="960" alt="homePage" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/67974023-aa25-4852-bbae-27f74cc4b8d7">
+
 
 
 ## Search bar suggestions
-<img width="960" alt="searchBar-suggestions" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/de54fc0d-8db8-4e10-8fc0-5772fa1a2fcf">
+<img width="960" alt="search-suggestions" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/9f4fa4f5-7eda-4343-98c3-7fe0659748db">
+
 
 
 ## Search Result and Display a 5-day forecast
-<img width="960" alt="searchResults" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/1b5072a0-fb0b-4813-bb13-268e5adfd549">
+<img width="960" alt="searchResult" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/d672e725-9819-4323-971e-ae107caab5c2">
+
 
 
 ## Search Result with accordion
-<img width="960" alt="detailsResult" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/5545aafc-4e66-436b-ab80-c8dcd56091a0">
+<img width="960" alt="searchResult with-accordion" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/3789fd8c-c165-4778-b7ee-813475a8b150">
+
 
 ## Live Link [live demo](https://appyin-assignment-blond.vercel.app/)
 
