@@ -17,7 +17,7 @@
 ## Search Result with accordion
 <img width="960" alt="detailsResult" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/5545aafc-4e66-436b-ab80-c8dcd56091a0">
 
-## Live Link [live demo](https://mirrar-assignment-nq5i.vercel.app/)
+## Live Link [live demo](https://appyin-assignment-blond.vercel.app/)
 
 ## Table of Contents
 
