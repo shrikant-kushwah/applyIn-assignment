@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { AsyncPaginate } from "react-select-async-paginate";
-import { geoApiOptions, GEO_API_URL } from "../../api";
+import { geoApiOptions, GEO_API_URL } from "../../utils/constants";
 
 const Search = ({ onSearchChange }) => {
   const [search, setSearch] = useState(null);
 
-  const LoadOptions = (inputValue) => {
+  const loadOptions = (inputValue) => {
     return fetch(
       `${GEO_API_URL}/cities?minPopulation=1000000&namePrefix=${inputValue}`,
       geoApiOptions
@@ -34,7 +34,7 @@ const Search = ({ onSearchChange }) => {
       debounceTimeout={700}
       value={search}
       onChange={handleOnChange}
-      loadOptions={LoadOptions}
+      loadOptions={loadOptions}
     />
   );
 };
